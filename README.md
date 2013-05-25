@@ -1,6 +1,13 @@
-# `lns`, A friendly program for making symbolic links
+# A friendly program for making symbolic links
 
 This is a mirror of S. Burke's [lns Perl script][lns] that makes making symbolic links so much easier!
+
+## Usage
+
+This is the beauty of it:
+
+    lns <target> <symlink>
+    lns <symlink> <target>
 
 ## Author(s)
 
