@@ -1,6 +1,6 @@
 # A friendly program for making symbolic links
 
-This is a mirror of S. Burke's [lns Perl script][lns] that makes making symbolic links so much easier!
+This is a mirror of S. Burke's [lns][lns] Perl script that makes making symbolic links so much easier!
 
 ## Usage
 
